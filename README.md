@@ -1,9 +1,9 @@
-# 
+# READMEGenerator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  sd
+  using node or the first time i learnd how to bailed this Generator
   
   ## Table of Contents 
   
@@ -24,12 +24,12 @@
   To install necessary dependencies, run the following command:
   
   ```
-  d
+  node index.js >>> then answer the Q
   ```
   
   ## Usage
   
-  d
+  easy to use all you need to do is answer the Question
   
   ## License
 
@@ -37,18 +37,18 @@ This project is licensed under the MIT license.
     
   ## Contributing
   
-  sd
+  non
   
   ## Tests
   
   To run tests, run the following command:
   
   ```
-  s
+  npm run test
   ```
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at s. You can find more of my work at [bklcross](https://github.com/bklcross/).
+  If you have any questions about the repo, open an issue or contact me directly at karzoun_27@hotmail.com. You can find more of my work at [karzoun](https://github.com/karzoun/).
   
   
